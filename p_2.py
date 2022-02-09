@@ -53,9 +53,6 @@ o = "apple"
 print("value of m: ", m, "value of n: ", n, "value of o: ",o, type(m), type(n), type(o).format(m,n,o))
 print("value of m<", m, "value of n>", n, "value of o/", o)
 
-# identify the string #
-h = 20
-i =
 
 
 

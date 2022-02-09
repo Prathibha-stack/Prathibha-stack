@@ -12,6 +12,15 @@ print(1234)
 print(1+2+7)
 print("1+2+7")
 
+x = 50
+y = 8
+z = x/y
+print("value of x is {}, value of y is {}, value of z is {}". format(x, y, z))
+# print("value of x:", x, "value of y:", y, "value of z:", z, type(x), type(y), type(z). format(x,y,z))
+print("value of x is {} and type is {}, value of y is {} and type is {}, value of z is {} and type is {}".format(x, type(x), y, type(y), z,type(z)))
+print("value of x: ", x, "value of y: ", y, "value of o: ", z, type(x), type(y), type(z).format(x, y, x))
+
+
 
 
 
